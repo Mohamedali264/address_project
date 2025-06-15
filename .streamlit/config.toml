@@ -1,0 +1,18 @@
+# .streamlit/config.toml
+
+[theme]
+
+# اللون الذهبي للعناصر الرئيسية مثل الأزرار
+primaryColor="#D4AF37"
+
+# لون أسود داكن للخلفية الرئيسية
+backgroundColor="#121212"
+
+# لون رمادي داكن جدًا للشريط الجانبي والخلفيات الثانوية
+secondaryBackgroundColor="#1E1E1E"
+
+# لون أبيض فاتح للنصوص والعناوين
+textColor="#FAFAFA"
+
+# نوع الخط
+font="sans serif"

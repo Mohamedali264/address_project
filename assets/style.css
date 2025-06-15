@@ -1,0 +1,21 @@
+/* assets/style.css */
+
+/* لتغيير خلفية حقول الإدخال إلى الأبيض والنص إلى الأسود */
+.stTextInput > div > div > input, .stTextArea > div > div > textarea {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #D4AF37;
+}
+
+/* لتغيير لون النصوص داخل الأزرار إلى أسود لتباين أفضل */
+.stButton>button {
+    color: #000000;
+    font-weight: bold;
+}
+
+/* لإضافة حدود ذهبية حول حاويات المحتوى الرئيسية */
+.st-emotion-cache-13ln4pb {
+    border: 1px solid #D4AF37;
+    border-radius: 10px;
+    padding: 2rem;
+}

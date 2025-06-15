@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+exports/
+temp_charts/
+reports/
+.streamlit/secrets.toml
+bb7ca149-5ae1-437c-a73c-1e3a48091751/
+5a710fb0-3303-4242-b5ae-2291e79f4170/
+da02daf6-0907-4ada-8b98-7c6014a2dde0/
+pygwalker_spec.json 
